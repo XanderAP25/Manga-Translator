@@ -51,4 +51,7 @@ assets/output/
 logs/
 
 # Ignore best.pt if you want to keep it out of git
-# models/best.pt
+models/best.pt
+
+# Fonts
+fonts/*
