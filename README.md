@@ -20,10 +20,10 @@ Manga Translator is a desktop application that automates the translation of Japa
 ## Installation
 
 1. **Clone the repository:**
-	```sh
-	git clone <repo-url>
-	cd Manga-Translator
-	```
+   ```sh
+   git clone https://github.com/XanderAP25/Manga-Translator.git
+   cd Manga-Translator
+   ```
 2. **Install dependencies:**
 	```sh
 	pip install -r requirements.txt
